@@ -4,7 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-//render()関数の第二引数で参照したDOMに対して<App />(= Appコンポーネント)を紐付ける
+//render()関数の第二引数で参照したDOMに対して<App />(= Appコンポーネント)を紐付ける.
 ReactDOM.render(
   <React.StrictMode>
     <App />
